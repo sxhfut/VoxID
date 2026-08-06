@@ -2,6 +2,8 @@
 
 一个基于 Sherpa-ONNX 的高性能语音识别服务，支持实时 VAD（语音活动检测）、多语言识别和声纹识别。
 
+> 📌 **Fork of [quyangminddock/VoxID](https://github.com/quyangminddock/VoxID).** All credit for the original work goes to the upstream author (`quyangminddock`). This fork is maintained under MAC-Lab and curated within the [Ubiquitous Psychological Computing](https://github.com/sxhfut/awesome-affective-computing) ecosystem. Issues and the canonical star history remain at the upstream repository.
+
 ## ✨ 特性
 
 - 🌍 **多语言支持**：支持中文、英文、日文、韩文、粤语等多种语言
@@ -32,7 +34,7 @@ sudo yum install -y libcxx libcxxabi gcc gcc-c++
 
 #### 1. 克隆项目
 ```bash
-git clone https://github.com/quyangminddock/VoxID.git
+git clone https://github.com/sxhfut/VoxID.git
 cd VoxID
 ```
 
